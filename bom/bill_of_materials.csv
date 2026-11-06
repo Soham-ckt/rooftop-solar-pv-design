@@ -1,0 +1,10 @@
+Item,Specification,Quantity,Unit
+PV Module,"HYPERSOL VSMDH.72.AAA.05, 580 Wp, Mono PERC",135,nos
+Inverter,"Sungrow SH80CX (or equivalent), 80 kWac, 3-phase, 9 MPPT inputs",1,nos
+DC Cable (C1 - array to inverter),"6 mm2, PV-grade copper, 1000V DC rated",265,m
+AC Cable (C2 - inverter to ACDB),"35 mm2, 4-core (3P+N+E), copper",1,m
+ACDB,"Outdoor/indoor rated enclosure housing SPD and MCCB",1,nos
+SPD (AC side),"Type 2, Uc 440V, In 20kA, Imax 40kA",1,nos
+MCCB,"3-pole, 160A, 25kA breaking capacity",1,nos
+Mounting Structure,"Shed-type MS/Aluminium structure, 9 rows, 21 deg tilt",9,sets
+Earthing,"Earth pit with conductor",2,nos
