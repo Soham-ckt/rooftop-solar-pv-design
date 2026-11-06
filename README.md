@@ -1,11 +1,10 @@
-# 80 kW Rooftop Solar PV Design — College Campus Study
+# Rooftop Solar PV Design: Layout Optimization Under Partial Shading
 
 A rooftop solar PV system design and shading study, combining PVsyst simulation with AutoCAD electrical drawings and a bill of materials.
 
 ## Project summary
 
 - **System size:** 78.3 kWp DC (135 modules x 580 Wp), 80 kWac inverter
-- **Location:** College rooftop, India (approx. 22.44 N, 88.37 E; exact coordinates withheld for privacy)
 - **Orientation:** Fixed tilt 21 degrees, azimuth -4 degrees (panels rotated slightly east of true south to match the building's axis)
 - **Tools used:** PVsyst (evaluation version) for energy simulation, AutoCAD for array layout and single-line diagram
 
@@ -43,4 +42,4 @@ See `bom/bill_of_materials.csv` for the full parts list (modules, inverter, cabl
 
 ## Author
 
-[Your name] — Final year ECE project / portfolio piece, 2026
+Soham Pandit
